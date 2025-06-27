@@ -34,5 +34,5 @@ bash scripts/add_noise.sh
 bash scripts/test_face.sh
 ```
 
-## 5. The entire code, dataset and pretrained weights can be downloaded at the following google drive link:
+## 5. The entire code, dataset and pretrained weights can be downloaded at the following link:
 * [DDPM](https://drive.google.com/file/d/1fJIHvSD7tEmHYv6cbiYJYREb7JqxOG6P/view?usp=sharing)
