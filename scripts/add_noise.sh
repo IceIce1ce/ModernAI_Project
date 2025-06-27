@@ -1,0 +1,1 @@
+python add_noise.py --input_dir datasets/HQ_face/00001.jpg --output_dir datasets/LQ_face

@@ -1,0 +1,1 @@
+python train.py --config config/config_face.json --phase val --gpu_ids 0
